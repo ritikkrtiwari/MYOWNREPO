@@ -7,6 +7,7 @@ All programs are written to practice and improve my coding skills.
 
 ## 📌 Programs included
 - `palindrome.cpp` — Program to check whether the input number is a palindrome.
+- `armstrong.cpp` — Program to check whether the input number is a Armstrong.
 *(More files will be added soon)*
 
 ## 🛠️ How to run
