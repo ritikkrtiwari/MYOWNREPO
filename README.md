@@ -9,6 +9,9 @@ All programs are written to practice and improve my coding skills.
 - `palindrome.cpp` — Program to check whether the input number is a Palindrome.
 - `armstrong.cpp` — Program to check whether the input number is a Armstrong.
 - `prime.cpp` — Program to check whether the input number is a Prime.
+- `palindromstrings.cpp` — Program to check whether the input string is a palindrome.
+- `grammer.cpp` — Program to count the number of vowels, consonants, and words in the input string.
+
 *(More files will be added soon)*
 
 ## 🛠️ How to run
