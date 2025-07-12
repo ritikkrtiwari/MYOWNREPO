@@ -6,8 +6,9 @@ This repository contains some of my solved problems using **C++ programming**.
 All programs are written to practice and improve my coding skills.
 
 ## 📌 Programs included
-- `palindrome.cpp` — Program to check whether the input number is a palindrome.
+- `palindrome.cpp` — Program to check whether the input number is a Palindrome.
 - `armstrong.cpp` — Program to check whether the input number is a Armstrong.
+- `prime.cpp` — Program to check whether the input number is a Prime.
 *(More files will be added soon)*
 
 ## 🛠️ How to run
