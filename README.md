@@ -11,6 +11,7 @@ All programs are written to practice and improve my coding skills.
 - `prime.cpp` — Program to check whether the input number is a Prime.
 - `palindromstrings.cpp` — Program to check whether the input string is a palindrome.
 - `grammer.cpp` — Program to count the number of vowels, consonants, and words in the input string.
+- `templatefunct.cpp` — Program to find the maximum of three values (int, double, float, char, string) using a function template.
 
 *(More files will be added soon)*
 
