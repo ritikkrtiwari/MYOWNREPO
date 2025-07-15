@@ -12,6 +12,9 @@ All programs are written to practice and improve my coding skills.
 - `palindromstrings.cpp` — Program to check whether the input string is a palindrome.
 - `grammer.cpp` — Program to count the number of vowels, consonants, and words in the input string.
 - `templatefunct.cpp` — Program to find the maximum of three values (int, double, float, char, string) using a function template.
+- `passbyvalue.cpp` — Swap using pass by value. The original variables are **not** modified.
+- `callbyaddress.cpp` — Swap using pointers (pass by address). The original variables **are** modified.
+- `callbyreference.cpp` — Swap using references (pass by reference). The original variables **are** modified.
 
 *(More files will be added soon)*
 
