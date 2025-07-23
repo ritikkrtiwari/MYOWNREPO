@@ -15,6 +15,8 @@ All programs are written to practice and improve my coding skills.
 - `passbyvalue.cpp` — Swap using pass by value. The original variables are **not** modified.
 - `callbyaddress.cpp` — Swap using pointers (pass by address). The original variables **are** modified.
 - `callbyreference.cpp` — Swap using references (pass by reference). The original variables **are** modified.
+- `calculatorusingfunctionpointer.cpp` — Simple calculator program using function pointers and switch-case. Supports add, subtract, multiply, and divide.
+
 
 *(More files will be added soon)*
 
