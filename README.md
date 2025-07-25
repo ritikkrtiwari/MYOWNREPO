@@ -18,6 +18,10 @@ All programs are written to practice and improve my coding skills.
 - `calculatorusingfunctionpointer.cpp` — Simple calculator program using function pointers and switch-case. Supports add, subtract, multiply, and divide.
 - `pointerobjects.cpp` — Program demonstrating the use of pointers to objects in C++.Creates a Rectangle class with methods to calculate area, perimeter, and diagonal and Uses object pointers to access and operate on multiple Rectangle objects.
 - `dynapointerobject.cpp` — Program demonstrating the use of dynamically allocated objects with pointers in C++.Creates a Rectangle class with methods to calculate area, perimeter, and diagonal.And Dynamically allocates three Rectangle objects on the heap, uses pointers to access them, and properly frees memory.
+- `constructor.cpp` – Program demonstrating constructor overloading in C++. It creates a Rectangle class with default constructor, parameterized constructor, and copy constructor. The program also shows how to set and get length/width and calculates area and perimeter.
+- `scoperesolution.cpp` – Program demonstrating constructor overloading and scope resolution operator in C++. Creates a Rectangle class with default, parameterized, and copy constructors. Includes methods to calculate area, perimeter, diagonal, and to check if the rectangle is a square.
+- `deepcopyconstructor.cpp` – Program demonstrating deep copy constructor in C++. Creates a Rectangle class that allocates memory dynamically for length on the heap, and uses a deep copy constructor to ensure new memory is allocated when copying objects.
+- `copyconstructor.cpp` – Program demonstrating default shallow copy constructor in C++. Creates a Rectangle class that allocates memory dynamically for length and shows how the shallow copy just copies the pointer (so both objects point to the same memory location).
 
 
 
